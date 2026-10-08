@@ -1,0 +1,24 @@
+/* Measured design of the business's current website (rebuild.vn design tokens). */
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai+2:400,500,600,700&display=swap");
+:root {
+  --color-primary: #1abc9c;
+  --color-secondary: #334862;
+  --color-background: #ffffff;
+  --color-bg: #ffffff;
+  --color-surface: #ededed;
+  --color-text: #777777;
+  --color-border: #c0c0c0;
+  --color-link: #1abc9c;
+  --font-body: "Baloo Bhai 2", system-ui, sans-serif;
+  --font: "Baloo Bhai 2", system-ui, sans-serif;
+  --font-heading: "Baloo Bhai 2", system-ui, sans-serif;
+  --font-size-body: 16px;
+  --font-size-h2: 25.6px;
+  --font-size-h3: 32px;
+  --radius-md: 0px;
+  --radius-pill: 9999px;
+  --radius: 0px;
+  --shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px -2px, rgba(0, 0, 0, 0.24) 0px 1px 2px 0px;
+  --container: 1080px;
+  --space-unit: 5px;
+}
